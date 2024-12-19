@@ -1,0 +1,46 @@
+ae: anh em
+anh: anh
+b: bạn
+bff: bạn thân nhất
+bh: bao giờ
+bt: biết
+bít: biết
+c: có
+ch: chị
+cmt: comment
+cn: chủ nhật
+dc: được
+em: em
+fb: Facebook
+g: gì
+h: giờ
+hihi: cười
+hn: Hà Nội
+hp: hạnh phúc
+huhu: khóc
+hóng: chờ đợi
+k: không
+kho: khó
+kq: kết quả
+m: một
+n: này
+nh: nhé
+ok: được
+q: quá
+r: rồi
+s: sao
+sdt: số điện thoại
+sg: Sài Gòn
+t: thì
+tg: thời gian
+th: tháng
+thik: thích
+tks: cảm ơn
+tl: trả lời
+tn: tin nhắn
+tt: thông tin
+vn: Việt Nam
+vs: với
+x: không
+z: đúng
+đc: được
